@@ -8,7 +8,7 @@ I felt it would be best to share it as this is not straight forward for anyone n
 
 First step I would suggest it to install Windows 11 [**PC Health Check app**](https://support.microsoft.com/en-us/windows/check-if-a-device-meets-windows-11-system-requirements-after-changing-device-hardware-f3bc0aeb-6884-41a1-ab57-88258df6812b): 
 
-<img width="436" height="313" alt="image" src="https://github.com/user-attachments/assets/596e2c19-714d-41a2-b860-8e60ec38ad90" />
+<img width="436" height="313" alt="image" src="https://github.com/charlesbenon/Windows/blob/main/Windows10_Update_To_Windows11/Pictures/Windows-PC-Health-Check.png" />
 
 This will explain what is currently blocking the update to Windows 11. In my case, it was because of the CPU which is a non sense.
 
@@ -17,13 +17,13 @@ This will explain what is currently blocking the update to Windows 11. In my cas
 After that, I would recommend a check of the disk usage (64GB should be available).
 
 [**Windirstat**](https://windirstat.net/) is very good and clear for that (click and remove personal files, for system files, check online first):
-<img width="952" height="511" alt="image" src="https://github.com/user-attachments/assets/529afbd9-9dc5-4a6f-9bce-e3459d24b5e2" />
+<img width="952" height="511" alt="image" src="https://github.com/charlesbenon/Windows/blob/main/Windows10_Update_To_Windows11/Pictures/WindirStat.png" />
 
 # 4/ Cleaning
 
 Another intersting software is [**PatchCleaner**](https://sourceforge.net/projects/patchcleaner/) to remove unused system files (MSP for example, I had 50GB of them):
 
-<img width="713" height="253" alt="image" src="https://github.com/user-attachments/assets/6f01ac5e-8bf9-4f7c-adf2-66c32120d64c" />
+<img width="713" height="253" alt="image" src="https://github.com/charlesbenon/Windows/blob/main/Windows10_Update_To_Windows11/Pictures/PatchCleaner.png" />
 
 I would also recommend to remove any old application you don't use from [**All Apps**](https://support.microsoft.com/en-us/windows/uninstall-or-remove-apps-and-programs-in-windows-4b55f974-2cc6-2d2b-d092-5905080eaf98) menu. 
 
